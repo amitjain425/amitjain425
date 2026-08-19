@@ -1,7 +1,7 @@
 # Hi, I'm Amit Jain 👋
 
-👨‍💻 **Solution Architect & Senior Full-Stack Developer** | 17+ years building enterprise software  
-🌍 Serving international clients across USA, Europe, and Asia  
+👨‍💻 **Solution Architect & Senior Full-Stack Developer** | years building enterprise software  
+🌍 Serving international clients across USA, Europe, Australia, Canada and Asia
 🎯 Specializing in **legacy .NET modernization** and **greenfield SaaS platforms**
 
 ---
@@ -67,12 +67,14 @@
 
 ---
 
-## 📊 Activity & Contributions
+## 📊 Quick Stats
 
-🟢 **3,800+** contributions in the last year  
-📚 Active contributor to enterprise architecture patterns  
-🌱 Continuous learner: .NET 10, AI/ML integrations, design patterns
-
+- ⭐ **Primary Languages:** C#, TypeScript, Angular 21, Angular, SQL, Docker, PostgreSQL
+- 📦 **Active Repositories:** 9+ public projects
+- 🟢 **Contributions:** 3,800+ in the last year
+- 📚 Active contributor to enterprise architecture patterns
+- 🌱 Continuous learner: .NET 10, AI/ML integrations, design patterns
+  
 ---
 
 ## 🤝 Let's Connect
@@ -80,14 +82,6 @@
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b3c133c9cc6aba00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-jain-241a5454)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amitjain425)
-
----
-
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitjain425&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjain425&layout=compact&theme=dark)
 
 ---
 
