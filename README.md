@@ -82,7 +82,3 @@
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b3c133c9cc6aba00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-jain-241a5454)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amitjain425)
-
----
-
-> *"Enterprise software is about solving real business problems at scale. I thrive at the intersection of architecture, technology strategy, and clean code."*
