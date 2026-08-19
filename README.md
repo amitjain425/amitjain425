@@ -1,6 +1,6 @@
 # Hi, I'm Amit Jain 👋
 
-👨‍💻 **Solution Architect & Senior Full-Stack Developer** | years building enterprise software  
+👨‍💻 **Solution Architect & Senior Full-Stack Developer** | many years building enterprise software  
 🌍 Serving international clients across USA, Europe, Australia, Canada and Asia
 🎯 Specializing in **legacy .NET modernization** and **greenfield SaaS platforms**
 
