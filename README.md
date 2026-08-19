@@ -69,11 +69,11 @@
 
 ## 📊 Quick Stats
 
-⭐ **Primary Languages:** C#, TypeScript, Angular 21, Angular, SQL, Docker, PostgreSQL
-📦 **Active Repositories:** 9+ public projects
-🟢 **Contributions:** 3,000+ in the last year
-📚 Active contributor to enterprise architecture patterns
-🌱 Continuous learner: .NET 10, AI/ML integrations, design patterns
+⭐ **Primary Languages:** C#, TypeScript, Angular 21, Angular, SQL, Docker, PostgreSQL  
+📦 **Active Repositories:** 9+ public projects  
+🟢 **Contributions:** 3,000+ in the last year  
+📚 Active contributor to enterprise architecture patterns  
+🌱 Continuous learner: .NET 10, AI/ML integrations, design patterns  
   
 ---
 
